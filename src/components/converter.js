@@ -30,7 +30,7 @@ class Converter extends Component {
           usd: datas.data.USD.value,        
           cad: datas.data.CAD.value,        
           jpy: datas.data.JPY.value,        
-          eur: datas.data.EUR.value.,        
+          eur: datas.data.EUR.value       
         })
       })
   }
