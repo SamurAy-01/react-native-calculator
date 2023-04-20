@@ -18,16 +18,14 @@ export default class Header extends Component {
 const styles = StyleSheet.create({
     header:{
         height: 80,
-        shadowColor: '#000000',
-        shadowOffset: {width: 0, height: 2},
-        shadowOpacity: 0.3,
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: '#F5FCFF'
+        backgroundColor: '#696969',
       },
       headerText: {
         fontSize: 20,
-        textAlign: 'center'
+        textAlign: 'center',
+        color: '#ffffff'
       }
 })
 
